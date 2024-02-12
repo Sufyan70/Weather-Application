@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="design_by_n_sufyan_sohail" />
+    <string name="weather_matters_n_we_ve_got_the_details" />
+    <string name="weather_matters_n_we_have_got_the_details">weather matters \n we have got the details</string>
+    <string name="design_by_sufyan_sohail">Design by Sufyan Sohail</string>
+</resources>
